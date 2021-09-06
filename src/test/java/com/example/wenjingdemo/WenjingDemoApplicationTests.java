@@ -21,7 +21,7 @@ class WenjingDemoApplicationTests {
         validatorContext.setRequestDto(orderSubmitDTO);
         // 声明校验执行器
         ValidateProcessor validateProcessor = new ValidateProcessor();
-        validateProcessor.validate(ValidateTypeEnum.LOGIN);
+        validateProcessor.validate(ValidateTypeEnum.ORDER_SUBMIT);
 
         System.out.println(validatorContext.getObj("orderSubmitDTO").toString());
     }
