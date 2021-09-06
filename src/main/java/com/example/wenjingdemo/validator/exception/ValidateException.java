@@ -1,6 +1,6 @@
-package com.example.wenjingdemo.Validator.exception;
+package com.example.wenjingdemo.validator.exception;
 
-import com.example.wenjingdemo.Validator.constants.ValidateResultEnum;
+import com.example.wenjingdemo.validator.constants.ValidateResultEnum;
 
 /**
  * @author wenjing.zsm

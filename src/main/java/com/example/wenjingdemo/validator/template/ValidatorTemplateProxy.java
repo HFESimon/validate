@@ -1,6 +1,6 @@
-package com.example.wenjingdemo.Validator.template;
+package com.example.wenjingdemo.validator.template;
 
-import com.example.wenjingdemo.Validator.exception.ValidateException;
+import com.example.wenjingdemo.validator.exception.ValidateException;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.EqualsAndHashCode;

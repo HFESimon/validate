@@ -1,10 +1,10 @@
 package com.example.wenjingdemo.demo.validatescenario.ordersubmit;
 
-import com.example.wenjingdemo.Validator.ValidatorContext;
-import com.example.wenjingdemo.Validator.comment.Validator;
-import com.example.wenjingdemo.Validator.constants.ValidateTypeEnum;
-import com.example.wenjingdemo.Validator.exception.ValidateException;
-import com.example.wenjingdemo.Validator.template.ValidatorTemplate;
+import com.example.wenjingdemo.validator.ValidatorContext;
+import com.example.wenjingdemo.validator.comment.Validator;
+import com.example.wenjingdemo.validator.constants.ValidateTypeEnum;
+import com.example.wenjingdemo.validator.exception.ValidateException;
+import com.example.wenjingdemo.validator.template.ValidatorTemplate;
 import com.example.wenjingdemo.demo.businesscode.OrderSubmitDTO;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;

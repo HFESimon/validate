@@ -1,4 +1,4 @@
-package com.example.wenjingdemo.Validator.comment;
+package com.example.wenjingdemo.validator.comment;
 
 import java.lang.annotation.*;
 

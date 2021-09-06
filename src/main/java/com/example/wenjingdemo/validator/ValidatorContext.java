@@ -1,4 +1,4 @@
-package com.example.wenjingdemo.Validator;
+package com.example.wenjingdemo.validator;
 
 import java.util.concurrent.ConcurrentHashMap;
 

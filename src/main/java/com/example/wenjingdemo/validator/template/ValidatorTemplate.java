@@ -1,7 +1,7 @@
-package com.example.wenjingdemo.Validator.template;
+package com.example.wenjingdemo.validator.template;
 
-import com.example.wenjingdemo.Validator.constants.ValidateResultEnum;
-import com.example.wenjingdemo.Validator.exception.ValidateException;
+import com.example.wenjingdemo.validator.constants.ValidateResultEnum;
+import com.example.wenjingdemo.validator.exception.ValidateException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 

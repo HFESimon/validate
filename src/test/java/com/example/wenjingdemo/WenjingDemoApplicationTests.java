@@ -1,8 +1,8 @@
 package com.example.wenjingdemo;
 
-import com.example.wenjingdemo.Validator.ValidatorContext;
-import com.example.wenjingdemo.Validator.constants.ValidateTypeEnum;
-import com.example.wenjingdemo.Validator.processor.ValidateProcessor;
+import com.example.wenjingdemo.validator.ValidatorContext;
+import com.example.wenjingdemo.validator.constants.ValidateTypeEnum;
+import com.example.wenjingdemo.validator.processor.ValidateProcessor;
 import com.example.wenjingdemo.demo.businesscode.OrderSubmitDTO;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

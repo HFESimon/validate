@@ -1,4 +1,4 @@
-package com.example.wenjingdemo.Validator.constants;
+package com.example.wenjingdemo.validator.constants;
 
 /**
  * @author wenjing.zsm
