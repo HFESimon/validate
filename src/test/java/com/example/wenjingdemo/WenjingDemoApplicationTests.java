@@ -12,7 +12,6 @@ class WenjingDemoApplicationTests {
 
     @Test
     void contextLoads() {
-
         OrderSubmitDTO orderSubmitDTO = new OrderSubmitDTO();
         orderSubmitDTO.setProductNum(2);
         orderSubmitDTO.setCustomerName("wenjing");
